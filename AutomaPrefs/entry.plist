@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = AutomaPrefs;
+		cell = PSLinkCell;
+		detail = "AutomaPrefsListController";
+		icon = "Automa.png";
+		isController = 1;
+		label = Automa;
+	};
+}

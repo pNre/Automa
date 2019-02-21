@@ -1,0 +1,11 @@
+Package: org.thebigboss.automa
+Name: Automa
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8), applist (>= 1.5), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description:
+Depiction: http://repo.pnre.co/tweaks/automa/
+Maintainer: pNre <automa@pnre.co>
+Author: pNre <automa@pnre.co>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/AutomaPrefs.bundle/AutomaCydia@3x.png

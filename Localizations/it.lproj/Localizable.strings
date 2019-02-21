@@ -1,0 +1,7 @@
+"YES" = "Sì";
+"YES_SHOW_BANNER" = "Sì e mostra un avviso";
+"YES_SHOW_BANNER_EVERY_APP" = "Sì e mostra un avviso in ogni app";
+"YES_EVERY_APP" = "Sì, in ogni app";
+"NO" = "No";
+"REMEMBER" = "Vuoi che Automa ricordi la tua scelta?";
+"ACTION_EXEC" = "Azione '%@', eseguita automaticamente";

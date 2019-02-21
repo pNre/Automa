@@ -1,0 +1,7 @@
+"YES" = "Yes";
+"YES_SHOW_BANNER" = "Yes and show a banner";
+"YES_SHOW_BANNER_EVERY_APP" = "Yes and show a banner in every app";
+"YES_EVERY_APP" = "Yes, in every app";
+"NO" = "No";
+"REMEMBER" = "Do you want Automa to remember your choice?";
+"ACTION_EXEC" = "Action '%@', automatically executed";
